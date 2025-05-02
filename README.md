@@ -36,6 +36,9 @@ Here are some of the projects I'm proud of:
 
 -  [Fruit & Vegetable Sales Analysis](https://github.com/Shimer-Fuard/Fruits-and-Vegetables-Sales-Analysis)  
   Drill into gross/net sales, discount effects, and customer behavior
+ 
+- [Bank Customer Savings Analysis](https://github.com/Shimer-Fuard/Bank-Customer-Savings-Analysis)  
+  Explore customer savings behavior and trends using Power BI visualizations.
 
 ---
 
